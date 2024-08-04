@@ -39,5 +39,10 @@ There is a variation in sales quantities across different product types, with in
 ### Gross Profit
 The gross profit percentage (GP%) stands at 0.39.
 Account profitability segmentation reveals a diverse range of profitability across different accounts, with some accounts achieving high sales and GP% while others underperform.
+
+
+https://github.com/user-attachments/assets/d844afab-8155-4fe9-aa37-5af16979ce85
+
+
 ## Conclusion
 The analysis provides valuable insights into Plant Co.'s sales performance, highlighting key trends and areas for improvement. By understanding the sales trends, quantity fluctuations, and gross profit margins, Plant Co. can make informed decisions to optimize their sales strategy and improve overall profitability.
